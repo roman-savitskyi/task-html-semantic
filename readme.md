@@ -1,3 +1,1 @@
-# task-name
-
-Description
+# Завдання по HTML виконано.
